@@ -1,0 +1,12 @@
+[
+  {
+    "name": "rviz2",
+    "command": "bash /app/scripts/run-ros2-rviz.sh",
+    "display": 1
+  },
+  {
+    "name": "rqt",
+    "command": "bash /app/scripts/run-ros2-rqt.sh",
+    "display": 2
+  }
+]
